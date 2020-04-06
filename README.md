@@ -7,6 +7,7 @@
 ### 개발을 시작하기 전 설치한 라이브러리
 
 **styled-components**
+
 **react-icons**
 
 ### 만들 컴포넌트들
