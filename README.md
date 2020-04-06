@@ -1,10 +1,8 @@
-## Todo List
+# react-mashup-todolist
 
 지금까지 배운 리액트의 기능들을 사용하여 만듭니다.
 
-# mashup-todolist
-
-### 개발을 시작하기 전 설치한 라이브러리
+### 개발을 시작하기 전 설치한 라이브러리들
 
 **styled-components**
 
